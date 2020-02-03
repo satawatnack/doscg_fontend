@@ -1,6 +1,6 @@
 # doscg_fontend
 
-> Web developer (Internship Program) font-end
+> Assignment  for Web developer (Internship Program) font-end
 
 ## Build Setup
 
